@@ -1,0 +1,37 @@
+.input {
+     width: 450px;
+     padding: 20px;
+     margin: 8px;
+     border-radius: 15px;
+     border: 2px solid snow;
+}
+
+.wrapper {
+     background-color: rgb(244, 28, 28);
+     padding: 30px;
+     width: 500px;
+     margin: 0px 40px 0px 70px;
+     align-content: center;
+     align-items: center;
+}
+
+.form-div {
+     margin: 20px;
+}
+
+h2 {
+     font-size: 20px;
+     font-family: sans-serif;
+     color: white;
+     align-self: center;
+     margin: 0px 0px 30px 120px;
+}
+
+
+.btn {
+     width: 100px;
+     background-color: beige;
+     border-radius: 12px;
+     padding: 12px;
+     margin: 0px 50px 0px 180px;
+}
